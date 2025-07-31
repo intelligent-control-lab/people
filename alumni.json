@@ -1,0 +1,441 @@
+[
+  {
+    "name": "Grover, Jaskaran",
+    "image": "jaskaran",
+    "email": null,
+    "current_position": "Amazon Robotics",
+    "history": [
+      {
+        "program": "PhD",
+        "department": "Robotics Institute",
+        "track": null,
+        "start_date": null,
+        "end_date": "Spring 2023",
+        "thesis": "System Identification and Control of Multi-Agent Systems Through Interactions"
+      }
+    ],
+    "homepage": "https://www.ri.cmu.edu/alumni/jaskaran-grover/",
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": "Co-advisor: Katia Sycara",
+    "index": "1"
+  },
+  {
+    "name": "Zhao, Weiye",
+    "image": "weiye",
+    "email": null,
+    "current_position": "Instinct Robotics",
+    "history": [
+      {
+        "program": "PhD",
+        "department": "Electrical and Computer Engineering",
+        "track": null,
+        "start_date": null,
+        "end_date": "Summer 2024",
+        "thesis": "State-wise Safe Reinforcement Learning and Control"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": "https://www.linkedin.com/in/weiye-zhao-45321a287/",
+    "x": null,
+    "cv": null,
+    "index": "2"
+  },
+  {
+    "name": "Wei, Tianhao",
+    "image": "tianhao",
+    "email": null,
+    "current_position": "Instinct Robotics",
+    "history": [
+      {
+        "program": "PhD",
+        "department": "Electrical and Computer Engineering",
+        "track": null,
+        "start_date": null,
+        "end_date": "Summer 2024",
+        "thesis": "Safeguarding and Empowering General Purpose Robots Through Abstraction and Constraint Certification"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": "https://www.linkedin.com/in/tianhao-wei-551120107/",
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "3"
+  },
+
+  {
+    "name": "Wang, Ziwei",
+    "image": "ziwei",
+    "email": null,
+    "current_position": "Assistant Professor at Nanyang Technological University",
+    "history": [
+      {
+        "program": "Postdoctoral Researcher",
+        "department": null,
+        "track": null,
+        "start_date": "2023",
+        "end_date": "2024",
+        "thesis": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "202401"
+  },
+
+  {
+    "name": "Lin, Ching-Ting",
+    "image": null,
+    "email": null,
+    "current_position": "Amazon",
+    "history": [
+      {
+        "program": "Master",
+        "department": "Mechanical Engineering",
+        "track": "Course",
+        "start_date": null,
+        "end_date": "Fall 2019",
+        "thesis": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20190301"
+  },
+  {
+    "name": "Huang, Jing",
+    "image": null,
+    "email": null,
+    "current_position": "Didi",
+    "history": [
+      {
+        "program": "Master",
+        "department": "Mechanical Engineering",
+        "track": "Course",
+        "start_date": null,
+        "end_date": "Fall 2019",
+        "thesis": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20190302"
+  },
+  {
+    "name": "Mavrogiannis, Angelos",
+    "image": null,
+    "email": null,
+    "current_position": "pursuing PhD at University of Maryland",
+    "history": [
+      {
+        "program": "Master",
+        "department": "Mechanical Engineering",
+        "track": "Research",
+        "start_date": null,
+        "end_date": "Spring 2020",
+        "thesis": "Human Driver Behavior Classification from Partial Trajectory Observation"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20200101"
+  },
+  {
+    "name": "Niu, Boshen",
+    "image": null,
+    "email": null,
+    "current_position": "Amazon",
+    "history": [
+      {
+        "program": "Master",
+        "department": "Robotics System Development",
+        "track": null,
+        "start_date": null,
+        "end_date": "Spring 2020",
+        "thesis": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20200102"
+  },
+  {
+    "name": "Wang, Chenxi",
+    "image": null,
+    "email": null,
+    "current_position": "Sequoia Capital",
+    "history": [
+      {
+        "program": "Master",
+        "department": "Mechanical Engineering",
+        "track": "Research",
+        "start_date": null,
+        "end_date": "Spring 2020",
+        "thesis": "Multi-Pin-Hole Insertion by Probabilistic Inference for PCB Assembly"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20200103"
+  },
+  {
+    "name": "Li, Yueqi",
+    "image": null,
+    "email": null,
+    "current_position": "Zoox",
+    "history": [
+      {
+        "program": "Master",
+        "department": "Mechanical Engineering",
+        "track": "Research",
+        "start_date": null,
+        "end_date": "Spring 2021",
+        "thesis": "Point Cloud Detection and Misalighned Multi-Rate Sensor Fusion System for Robot Assembly Station"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20210101"
+  },
+  {
+    "name": "Chen, Hongyi",
+    "image": null,
+    "email": null,
+    "current_position": "pursuing PhD at CMU",
+    "history": [
+      {
+        "program": "Master",
+        "department": "Electrical and Computer Engineering",
+        "track": null,
+        "start_date": null,
+        "end_date": "Spring 2021",
+        "thesis": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20210102"
+  },
+  {
+    "name": "Liu, Ruixuan",
+    "image": null,
+    "email": null,
+    "current_position": "pursuing PhD at CMU",
+    "history": [
+      {
+        "program": "Master of Science in Robotics",
+        "department": "Robotics Institute",
+        "track": null,
+        "start_date": null,
+        "end_date": "Summer 2021",
+        "thesis": "Data-Efficient Behavior Prediction for Safe Human-Robot Collaboration"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20210201"
+  },
+  {
+    "name": "Zhang, Zhihao",
+    "image": null,
+    "email": null,
+    "current_position": "pursuing PhD at CMU",
+    "history": [
+      {
+        "program": "Master of Science in Robotics",
+        "department": "Robotics Institute",
+        "track": null,
+        "start_date": null,
+        "end_date": "Summer 2022",
+        "thesis": "Efficient Methods for Model Preference Inference"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": "Co-advisor: Zhihao Jia (CSD)",
+    "index": "20220201"
+  },
+  {
+    "name": "Shek, Alvin",
+    "image": null,
+    "email": null,
+    "current_position": "Armstrong Robotics",
+    "history": [
+      {
+        "program": "Master of Science in Robotics",
+        "department": "Robotics Institute",
+        "track": null,
+        "start_date": null,
+        "end_date": "Summer 2022",
+        "thesis": "Learning from Physical Human Feedback: An Object-Centric One-Shot Adaptation Method"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20220202"
+  },
+  {
+    "name": "Sun, Yifan",
+    "image": null,
+    "email": null,
+    "current_position": "Pursing PhD at CMU",
+    "history": [
+      {
+        "program": "Master",
+        "department": "Mechanical Engineering",
+        "track": "Research",
+        "start_date": null,
+        "end_date": "Spring 2023",
+        "thesis": "Hybrid Task Constrained Planner for Robot Manipulator in Confined Environment"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20230101"
+  },
+  {
+    "name": "Su, Boying",
+    "image": "bo",
+    "email": "boyings@andrew.cmu.edu",
+    "current_position": "Medra",
+    "history":[
+      {
+        "program": "Master",
+        "department": "ECE",
+        "thesis": null,
+        "start_date": "Fall 2022",
+        "end_date": "Spring 2024"
+      },
+      {
+        "program": "Research Assistant",
+        "department": "RI",
+        "thesis": null,
+        "start_date": "Summer 2024",
+        "end_date": "Spring 2025"
+      }
+    ],
+    "homepage": "https://www.ri.cmu.edu/ri-people/bo-ying-su/",
+    "github":null,
+    "scholar":null,
+    "linkedin":null,
+    "x":null,
+    "cv":null,
+    "note": null,
+    "index": "20240101"
+  },
+  {
+    "name": "Yun, Kai",
+    "image": "kai",
+    "email": null,
+    "current_position": "pursuing PhD at MIT",
+    "history": [
+      {
+        "program": "Master",
+        "department": "Mechanical Engineering",
+        "track": "Research",
+        "start_date": null,
+        "end_date": "Spring 2025",
+        "thesis": null
+      }
+    ],
+    "homepage": "https://kaiyun717.github.io/",
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20250101"
+  },
+  {
+    "name": "Li, Jiaxing",
+    "image": "jiaxing",
+    "email": null,
+    "current_position": "research assistant at CMU",
+    "history": [
+      {
+        "program": "Master",
+        "department": "Electrical Engineering",
+        "track": "Research",
+        "start_date": null,
+        "end_date": "Spring 2025",
+        "thesis": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20250102"
+  }
+]
