@@ -47,7 +47,7 @@ Each `history` object includes:
 
 | Field        | Description                                         |
 | ------------ | --------------------------------------------------- |
-| `program`    | Degree program (e.g., "PhD", "MS")                  |
+| `program`    | Degree program (e.g., "PhD", "Master") or other role (e.g., "Intern") |
 | `department` | Department affiliation (e.g., "Robotics Institute") |
 | `track`      | Optional program track (if applicable)              |
 | `start_date` | Start date (e.g., `"Fall 2019"`, optional)          |
@@ -65,7 +65,7 @@ Each `history` object includes:
    cd people
    ```
 
-2. Open `_data/people.json` in your favorite text editor.
+2. Open `alumni.json` in your favorite text editor.
 
 3. Add a new JSON object with the appropriate fields, or modify an existing one. Make sure to:
 
@@ -75,7 +75,7 @@ Each `history` object includes:
 4. Commit and push your changes:
 
    ```bash
-   git add _data/people.json
+   git add alumni.json
    git commit -m "Add/update alumni entry for [Name]"
    git push
    ```
