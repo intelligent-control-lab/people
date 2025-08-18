@@ -1,0 +1,25 @@
+[
+  {
+    "name": null,
+    "image": null,
+    "email": null,
+    "current_position": null,
+    "history": [
+      {
+        "program": "visitor",
+        "department": "Robotics Institute",
+        "track": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": null
+  }
+]
