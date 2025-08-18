@@ -2,9 +2,17 @@
 
 This repository contains structured data for managing and displaying information about former lab members in the [Intelligent Control Lab (ICL)](http://icontrol.ri.cmu.edu/) at Carnegie Mellon University.
 
-The data in this repository is used to generate the alumni listing on our lab website:
+The data in `alumni.json` is used to generate the alumni listing on our lab website:
 
 📄 **Website link**: [http://icontrol.ri.cmu.edu/people/alumni.html](http://icontrol.ri.cmu.edu/people/alumni.html)
+
+The data in `visitors.json` will be used to generate a visitor page on our lab website.
+
+Whether you should add your information to alumni or visitors?
+
+- For all current and past, non-CMU and unpaid students/visitors/interns, please add your information to `visitors.json`;
+- For all past, CMU students and paid research assistants, please add your information to `alumni.json`;
+- For all current CMU students and paid research assistants, please add your information to [this page](https://github.com/intelligent-control-lab/intelligent-control-lab.github.io).
 
 ---
 
