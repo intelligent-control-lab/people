@@ -1,9 +1,9 @@
 [
   {
     "name": "Liao, Yijie",
-    "image": null,
+    "image": "lyjie",
     "email": null,
-    "current_position": "Undergrad in SJTU and Umich",
+    "current_position": "undergrad at SJTU and Umich",
     "history": [
       {
         "program": "visitor",
@@ -22,7 +22,29 @@
     "note": null,
     "index": null
   },
-  
+  {
+    "name": "Zhang, Yuner",
+    "image": "Yuner",
+    "email": null,
+    "current_position": "master at Upenn",
+    "history": [
+      {
+        "program": "visitor",
+        "department": "Robotics Institute",
+        "track": null,
+        "start_date": "May 2025",
+        "end_date": "August 2025"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": null
+  },
   {
     "name": null,
     "image": null,
