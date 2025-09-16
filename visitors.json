@@ -1,5 +1,29 @@
 [
   {
+    "name": "Yu, Jichuan",
+    "image": "jichuan",
+    "email": "yujcjerry@gmail.com",
+    "current_position": "Ph.D. student at THU",
+    "history": [
+      {
+        "program": "visitor",
+        "department": "Robotics Institute",
+        "track": null,
+        "start_date": "July 2025",
+        "end_date": "December 2025"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": "https://scholar.google.com/citations?user=r1CbZp8AAAAJ&hl=en", 
+    "linkedin": "https://www.linkedin.com/in/jichuan-yu-13b8ba303",
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": null
+  },
+
+  {
     "name": "Liao, Yijie",
     "image": "yijie",
     "email": null,
@@ -22,6 +46,7 @@
     "note": null,
     "index": null
   },
+
   {
     "name": "Zhang, Yuner",
     "image": "yuner",
@@ -40,29 +65,6 @@
     "github": null,
     "scholar": null,
     "linkedin": null,
-    "x": null,
-    "cv": null,
-    "note": null,
-    "index": null
-  },
-  {
-    "name": "Yu, Jichuan",
-    "image": "jichuan",
-    "email": "yujcjerry@gmail.com",
-    "current_position": "Ph.D. student at THU",
-    "history": [
-      {
-        "program": "visitor",
-        "department": "Robotics Institute",
-        "track": null,
-        "start_date": "July 2025",
-        "end_date": "December 2025"
-      }
-    ],
-    "homepage": null,
-    "github": null,
-    "scholar": "https://scholar.google.com/citations?user=r1CbZp8AAAAJ&hl=en", 
-    "linkedin": "https://www.linkedin.com/in/jichuan-yu-13b8ba303",
     "x": null,
     "cv": null,
     "note": null,
