@@ -46,23 +46,23 @@
     "index": null
   },
   {
-    "name": null,
+    "name": "Yu, Jichuan",
     "image": null,
-    "email": null,
-    "current_position": null,
+    "email": "yujcjerry@gmail.com",
+    "current_position": "Ph.D. student at THU",
     "history": [
       {
         "program": "visitor",
         "department": "Robotics Institute",
         "track": null,
-        "start_date": null,
-        "end_date": null
+        "start_date": "July 2025",
+        "end_date": "December 2025"
       }
     ],
     "homepage": null,
     "github": null,
-    "scholar": null,
-    "linkedin": null,
+    "scholar": "https://scholar.google.com/citations?user=r1CbZp8AAAAJ&hl=en", 
+    "linkedin": "https://www.linkedin.com/in/jichuan-yu-13b8ba303",
     "x": null,
     "cv": null,
     "note": null,
