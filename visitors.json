@@ -1,5 +1,29 @@
 [
   {
+    "name": "Lu, Guanxing",
+    "image": "guanxing",
+    "email": "guanxinl@andrew.cmu.edu",
+    "current_position": "Master student at THU",
+    "history": [
+      {
+        "program": "visitor",
+        "department": "Robotics Institute",
+        "track": null,
+        "start_date": "September 2025",
+        "end_date": "December 2025"
+      }
+    ],
+    "homepage": null,
+    "github": "https://guanxinglu.github.io/",
+    "scholar": "https://scholar.google.com/citations?user=b9n4SrMAAAAJ&hl=en", 
+    "linkedin": "https://www.linkedin.com/in/guanxing-lu-0402552a6",
+    "x": "https://x.com/gxlu02",
+    "cv": null,
+    "note": null,
+    "index": null
+  },
+
+  {
     "name": "Yu, Jichuan",
     "image": "jichuan",
     "email": "yujcjerry@gmail.com",
@@ -27,7 +51,7 @@
     "name": "Liao, Yijie",
     "image": "yijie",
     "email": null,
-    "current_position": "Undergrad at SJTU and Umich",
+    "current_position": "Undergraduate student at SJTU and Umich",
     "history": [
       {
         "program": "visitor",
@@ -51,7 +75,7 @@
     "name": "Zhang, Yuner",
     "image": "yuner",
     "email": null,
-    "current_position": "Master at Upenn",
+    "current_position": "Master student at Upenn",
     "history": [
       {
         "program": "visitor",
