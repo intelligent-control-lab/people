@@ -96,6 +96,46 @@
   },
 
   {
+      "name":"Liu, Simin",
+      "image":"simin",
+      "email":"siminliu@andrew.cmu.edu",
+      "current_position": null,
+      "history": [
+        {
+          "program": "PhD",
+          "department": "Robotics Institute",
+          "track": null,
+          "start_date": null,
+          "end_date": "Summer 2025",
+          "thesis": "Reachable Sets for Control and Planning: from Reactive Safety to Contact-Rich Manipulation"
+        }
+      ],
+      "homepage":"https://www.ri.cmu.edu/ri-people/simin-liu/",
+      "index": "5"
+  },
+
+  {
+      "name":"Pandya, Ravi",
+      "image":"ravi",
+      "email":"rapandya@andrew.cmu.edu",
+      "current_position": "Nuro",
+      "history": [
+        {
+          "program": "PhD",
+          "department": "Robotics Institute",
+          "track": null,
+          "start_date": null,
+          "end_date": "Fall 2025",
+          "thesis": "Influence-Aware Safety for Human-Robot Interaction"
+        }
+      ],
+      "homepage":"https://ravipandya.com/",
+      "scholar":"https://scholar.google.com/citations?user=1DH-aXwAAAAJ&hl=en",
+      "linkedin":"https://www.linkedin.com/in/ravi-pandya/",
+      "index": "6"
+  },
+
+  {
     "name": "Wang, Ziwei",
     "image": "ziwei",
     "email": null,
