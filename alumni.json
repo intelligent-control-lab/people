@@ -501,5 +501,29 @@
     "cv": null,
     "note": null,
     "index": "20250102"
-  }
+  },
+  {
+    "name":"Pang, Yuyang",
+    "image":"yuyang",
+    "email":"yuyangp@andrew.cmu.edu",
+    "current_position": null,
+    "history": [
+      {
+        "program": "Master",
+        "department": "Electrical Engineering",
+        "track": "Research",
+        "start_date": null,
+        "end_date": "Fall 2025",
+        "thesis": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20250301"
+   },
 ]
