@@ -139,7 +139,7 @@
       "name":"Chen, Rui",
       "image":"rui",
       "email":"ruic3@andrew.cmu.edu",
-      "homepage":"https://ruichen.pub/"
+      "homepage":"https://ruichen.pub/",
       "current_position": "Instinct Robotics",
       "history": [
         {
@@ -544,5 +544,5 @@
     "cv": null,
     "note": null,
     "index": "20250301"
-   },
+   }
 ]
