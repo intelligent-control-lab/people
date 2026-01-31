@@ -136,6 +136,25 @@
   },
 
   {
+      "name":"Chen, Rui",
+      "image":"rui",
+      "email":"ruic3@andrew.cmu.edu",
+      "homepage":"https://ruichen.pub/"
+      "current_position": "Instinct Robotics",
+      "history": [
+        {
+          "program": "PhD",
+          "department": "Robotics Institute",
+          "track": null,
+          "start_date": null,
+          "end_date": "Spring 2026",
+          "thesis": "Rethinking Robot Safety: Adaptive and Scalable Methods for Real-World Autonomy"
+        }
+      ],
+      "index": "7"
+  },
+
+  {
     "name": "Wang, Ziwei",
     "image": "ziwei",
     "email": null,
