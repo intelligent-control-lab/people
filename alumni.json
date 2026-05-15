@@ -11,6 +11,7 @@
         "track": null,
         "start_date": null,
         "end_date": "Spring 2023",
+        "co-advisor": "Katia Sycara",
         "thesis": "System Identification and Control of Multi-Agent Systems Through Interactions"
       }
     ],
@@ -20,7 +21,6 @@
     "linkedin": null,
     "x": null,
     "cv": null,
-    "note": "Co-advisor: Katia Sycara",
     "index": "1"
   },
   {
@@ -107,6 +107,7 @@
           "track": null,
           "start_date": null,
           "end_date": "Summer 2025",
+          "co-advisor": "John Dolan",
           "thesis": "Reachable Sets for Control and Planning: from Reactive Safety to Contact-Rich Manipulation"
         }
       ],
@@ -126,6 +127,7 @@
           "track": null,
           "start_date": null,
           "end_date": "Fall 2025",
+          "co-advisor": "Andrea Bajcsy",
           "thesis": "Influence-Aware Safety for Human-Robot Interaction"
         }
       ],
@@ -152,6 +154,51 @@
         }
       ],
       "index": "7"
+  },
+
+  {
+      "name":"He, Tairan",
+      "image":"tairan",
+      "email":"tairanh@andrew.cmu.edu",
+      "current_position":"Open AI",
+      "homepage":"https://tairanhe.com",
+      "history": [
+        {
+          "program": "PhD",
+          "department": "Robotics Institute",
+          "track": null,
+          "start_date": null,
+          "end_date": "Spring 2026",
+          "co-advisor": "Guanya Shi",
+          "thesis": "Scalable Sim-to-Real Learning for General-Purpose Humanoid Skills"
+        }
+      ],
+      "github":"https://github.com/TairanHe",
+      "scholar":"https://scholar.google.com/citations?user=TVWH2U8AAAAJ",
+      "linkedin":"https://www.linkedin.com/in/tairan-he-41a904294/",
+      "x":"https://x.com/TairanHe99",
+      "bilibili":"https://space.bilibili.com/14145636",
+      "index": "8"
+   },
+
+
+  {
+      "name":"Hu, Hanjiang",
+      "image":"hanjiang",
+      "email":"hanjianh@andrew.cmu.edu",
+      "homepage":"https://cs.cmu.edu/~hanjianh",
+      "current_position": null,
+      "history": [
+        {
+          "program": "PhD",
+          "department": "Electrical and Computer Engineering",
+          "track": null,
+          "start_date": null,
+          "end_date": "Summer 2026",
+          "thesis": "Verified Safety with Neural Barrier Functions: From Dynamical Systems to Language Models"
+        }
+      ],
+      "index": "9"
   },
 
   {
@@ -505,8 +552,7 @@
     "history": [
       {
         "program": "Master",
-        "department": "Electrical Engineering",
-        "track": "Research",
+        "department": "Electrical and Computer Engineering",
         "start_date": null,
         "end_date": "Spring 2025",
         "thesis": null
@@ -522,15 +568,14 @@
     "index": "20250102"
   },
   {
-    "name":"Pang, Yuyang",
-    "image":"yuyang",
-    "email":"yuyangp@andrew.cmu.edu",
-    "current_position": null,
-    "history": [
+      "name":"Dou, Jianlin",
+      "image":"jianlin",
+      "email":"jdou2@andrew.cmu.edu",
+      "current_position":"",
+      "history": [
       {
         "program": "Master",
-        "department": "Electrical Engineering",
-        "track": "Research",
+        "department": "Electrical and Computer Engineering",
         "start_date": null,
         "end_date": "Fall 2025",
         "thesis": null
@@ -544,5 +589,195 @@
     "cv": null,
     "note": null,
     "index": "20250301"
+   },
+   {
+      "name":"Fang, Yikuan",
+      "image":"yikuan",
+      "email":"yikuanf@andrew.cmu.edu",
+      "current_position":"",
+      "history": [
+      {
+        "program": "Master",
+        "department": "Electrical and Computer Engineering",
+        "start_date": null,
+        "end_date": "Fall 2025",
+        "thesis": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20250302"
+   },
+    {
+      "name":"Li, Yi",
+      "image":null,
+      "email":"yili6@andrew.cmu.edu",
+      "current_position":"",
+      "history": [
+      {
+        "program": "Master",
+        "department": "Electrical and Computer Engineering",
+        "start_date": null,
+        "end_date": "Fall 2025",
+        "thesis": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20250303"
+   },
+  {
+    "name":"Pang, Yuyang",
+    "image":"yuyang",
+    "email":"yuyangp@andrew.cmu.edu",
+    "current_position": null,
+    "history": [
+      {
+        "program": "Master",
+        "department": "Electrical and Computer Engineering",
+        "start_date": null,
+        "end_date": "Fall 2025",
+        "thesis": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20250304"
+  },
+  {
+    "name": "Piao, Weiyi",
+    "image": "weiyi",
+    "email": "wpiao@andrew.cmu.edu",
+    "current_position": "ROKAE Robotics",
+    "history": [
+      {
+        "program": "Master",
+        "department": "Electrical and Computer Engineering",
+        "start_date": null,
+        "end_date": "Fall 2025",
+        "thesis": null
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": "20250305"
+  },
+  {
+      "name":"Tang, Zhenran",
+      "preferred_name":"Kevin",
+      "image":"kevin",
+      "email":"kevintang@cmu.edu",
+      "current_position":"Tesla",
+      "history": [
+      {
+        "program": "Master",
+        "department": "Robotics Institute",
+        "track": "Research",
+        "start_date": null,
+        "end_date": "Spring 2026",
+        "thesis": null
+      }
+      ],
+      "homepage": null,
+      "github": null,
+      "scholar": null,
+      "linkedin": null,
+      "x": null,
+      "cv": null,
+      "note": null,
+      "index": "20260101"
+   },
+   {
+      "name":"Jung, Sebin",
+      "image":"sebin",
+      "email":"sebinj@andrew.cmu.edu",
+      "current_position":null,
+      "history": [
+      {
+        "program": "Master",
+        "department": "Mechanical Engineering",
+        "track": "Research",
+        "start_date": null,
+        "end_date": "Spring 2026",
+        "thesis": null
+      }
+      ],
+      "homepage": null,
+      "github": null,
+      "scholar": null,
+      "linkedin": null,
+      "x": null,
+      "cv": null,
+      "note": null,
+      "index": "20260102"
+   },
+
+   {
+      "name":"Li, Bowei",
+      "image":"bowei",
+      "email":"boweili@andrew.cmu.edu",
+      "current_position":null,
+      "history": [
+      {
+        "program": "Master",
+        "department": "Electrical and Computer Engineering",
+        "start_date": null,
+        "end_date": "Spring 2026",
+        "thesis": null
+      }
+      ],
+      "homepage": null,
+      "github": null,
+      "scholar": null,
+      "linkedin": null,
+      "x": null,
+      "cv": null,
+      "note": null,
+      "index": "20260103"
+   },
+
+   {
+      "name":"Zhou, Han",
+      "image":"han",
+      "email":"hanzhou2@andrew.cmu.edu",
+      "current_position":"DEEP Robotics",
+      "history": [
+      {
+        "program": "Master",
+        "department": "Electrical and Computer Engineering",
+        "start_date": null,
+        "end_date": "Spring 2026",
+        "thesis": null
+      }
+      ],
+      "homepage": null,
+      "github": null,
+      "scholar": null,
+      "linkedin": null,
+      "x": null,
+      "cv": null,
+      "note": null,
+      "index": "20260103"
    }
+
 ]
