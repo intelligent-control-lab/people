@@ -227,6 +227,31 @@
   },
 
   {
+      "name":"Luo, Xusheng",
+      "image":"xusheng",
+      "email":"xushengl@andrew.cmu.edu",
+      "current_position":"Assistant Professor at North Carolina State University",
+      "history": [
+        {
+          "program": "Postdoctoral Researcher",
+          "department": null,
+          "track": null,
+          "start_date": "2023",
+          "end_date": "2026",
+          "thesis": null
+        }
+      ],
+      "homepage": "https://xushengluo92.github.io",
+      "github": null,
+      "scholar": null,
+      "linkedin": null,
+      "x": null,
+      "cv": null,
+      "note": null,
+      "index": "202601"
+   },
+
+  {
     "name": "Lin, Ching-Ting",
     "image": null,
     "email": null,
