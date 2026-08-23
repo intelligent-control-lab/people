@@ -35,7 +35,7 @@ Each person is represented as an object with the following fields:
 | Field              | Description                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------- |
 | `name`             | Full name in the format `"Last, First"`                                                        |
-| `image`            | Name of the image file (without extension) in `assets/images/people/` in the private git repo. |
+| `image`            | Name of the image file (without extension) in `assets/images/people/`, or a full external image URL. |
 | `email`            | Email address (optional)                                                                       |
 | `current_position` | Current job or role (e.g., "Research Scientistic at Amazon Robotics")                          |
 | `history`          | A list of program history objects (see below)                                                  |
@@ -92,8 +92,6 @@ Each `history` object includes:
 
 ## 🧩 TODOs
 
-* [ ] **Support remote image specification**
-  Currently, the `image` field assumes local files under `assets/images/people/`. We plan to add support for referencing remote images via full URLs (e.g., `https://example.com/avatar.jpg`).
 * [ ] **Synchronize thesis information**
   Synchronize the thesis entry with the bib entry in [https://github.com/intelligent-control-lab/Literature](https://github.com/intelligent-control-lab/Literature).
 
