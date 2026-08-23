@@ -93,5 +93,29 @@
     "cv": null,
     "note": null,
     "index": null
+  },
+
+  {
+    "name": "Chen, Zixi",
+    "image": "https://barry0977.github.io/images/Zixi.jpg",
+    "email": "zixichen@andrew.cmu.edu",
+    "current_position": "Undergraduate student at SJTU",
+    "history": [
+      {
+        "program": "visitor",
+        "department": "Robotics Institute",
+        "track": null,
+        "start_date": "May 2026",
+        "end_date": "Dec 2026"
+      }
+    ],
+    "homepage": null,
+    "github": null,
+    "scholar": null,
+    "linkedin": null,
+    "x": null,
+    "cv": null,
+    "note": null,
+    "index": null
   }
 ]
